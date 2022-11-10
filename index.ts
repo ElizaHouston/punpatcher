@@ -40,7 +40,7 @@ const deprecateCategory = async (identifier: string) => {
         deprecated: true
     }
 
-    return await modifyCategory(update);
+    return await createCategory(update);
 }
 
 (async () => {
