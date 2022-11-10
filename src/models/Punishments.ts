@@ -1,6 +1,6 @@
 export type PunishmentCategory = {
     short: string;
-    name: string;
+    name?: string;
     deprecated: boolean;
     message: string;
     level: number;
