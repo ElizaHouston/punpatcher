@@ -1,0 +1,70 @@
+[
+    {
+        "short": "chat_bot",
+        "name": "Chat Bot",
+        "message": "Using chat bots in the lobby is not permitted.",
+        "level": 2,
+        "displayMaterial": "OBSERVER"
+    },
+    {
+        "short": "Bad_Behavior",
+        "name": "Encouraging Bad Behavior",
+        "message": "Encouraging others to break the rules is not allowed.",
+        "level": 5,
+        "displayMaterial": "WOODEN_SWORD"
+    },
+    {
+        "short": "External",
+        "name": "External Advertisement",
+        "message": "Advertising external servers is not permitted in our lobby.",
+        "level": 6,
+        "displayMaterial": "IRON_HELMET"
+    },
+    {
+        "short": "auto_ad",
+        "name": "Auto Ad",
+        "message": "Using tools to automatically advertise is not allowed.",
+        "level": 7,
+        "displayMaterial": "DIAMOND_HELMET"
+    },
+    {
+        "short": "Discrimination",
+        "name": "Discrimination",
+        "message": "Using slurs and/or discriminating others is not allowed.",
+        "level": 9,
+        "scale": "BAN",
+        "displayMaterial": "SPRUCE_SIGN"
+    },
+    {
+        "short": "Links",
+        "name": "Sending Malicious Links",
+        "message": "Sharing malicious links that might install malware or collect personal information are not allowed.",
+        "level": 10,
+        "scale": "BAN",
+        "displayMaterial": "CHAIN"
+    },
+    {
+        "short": "Disruption",
+        "name": "Community Disruption",
+        "message": "Griefing player servers or causing disruptions in the community is not permitted.",
+        "level": 11,
+        "scale": "BAN",
+        "displayMaterial": "COMMAND_BLOCK"
+    },
+    {
+        "short": "Personal_Info",
+        "name": "Releasing Personal Info",
+        "message": "Distributing any personal information, even if fake, is not permitted.",
+        "level": 12,
+        "scale": "BAN",
+        "displayMaterial": "PLAYER_HEAD"
+    },
+    {
+        "short": "perm",
+        "name": "Other Perm",
+        "message": "Your account has been banned, please contact Support for more info.",
+        "level": 12,
+        "scale": "BAN",
+        "displayMaterial": "DISPENSER"
+    }
+]
