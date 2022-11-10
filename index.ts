@@ -40,13 +40,13 @@ const deprecateCategory = async (identifier: string) => {
         deprecated: true
     }
 
-    return await createCategory(update);
+    return await modifyCategory(update);
 }
 
 (async () => {
     const puns = await loadFromFile("./patches/update.json");
     for (const pun of puns) {
-        let response = await modifyCategory(pun);
+        let response = await createCategory(pun);
         console.info(JSON.stringify(response, null, 2));
     }
 })();
