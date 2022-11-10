@@ -1,13 +1,13 @@
 export type PunishmentCategory = {
     short: string;
     name?: string;
-    deprecated: boolean;
-    message: string;
-    level: number;
-    scale: Exclude<PunishmentAction, "KICK" | "WARN">;
+    deprecated?: boolean;
+    message?: string;
+    level?: number;
+    scale?: Exclude<PunishmentAction, "KICK" | "WARN">;
     requiredRank?: Rank;
-    ordinal: number;
-    displayMaterial: string
+    ordinal?: number;
+    displayMaterial?: string
 }
 
 export type PunishmentCategoryPatch = {
