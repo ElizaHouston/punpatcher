@@ -1,0 +1,58 @@
+[
+    {
+        "short": "Harassment",
+        "name": "Harassment",
+        "message": "Harassing other players and staff is not permitted.",
+        "level": 7,
+        "scale": "BAN",
+        "displayMaterial": "OBSERVER"
+    },
+    {
+        "short": "Swearing",
+        "name": "Swearing",
+        "message": "Swearing is against our rules, so is trying to bypass our chat filter.",
+        "scale": null,
+        "level": 6
+    },
+    {
+        "short": "nameban",
+        "name": "Inappropriate Name/Skin",
+        "message": "Inappropriate usernames and skins are not permitted on our servers. Please change it and contact Support."
+    },
+    {
+        "short": "backdoor",
+        "level": 10
+    },
+    {
+        "short": "Encouraging_Harm",
+        "level": 10
+    },
+    {
+        "short": "Links",
+        "level": 10
+    },
+    {
+        "short": "abuse_supp",
+        "level": 9
+    },
+    {
+        "short": "Discrimination",
+        "level": 9
+    },
+    {
+        "short": "staff_imper",
+        "level": 8
+    },
+    {
+        "short": "Inappropriate",
+        "level": 6
+    },
+    {
+        "short": "Spam",
+        "level": 5
+    },
+    {
+        "short": "Server_Ad",
+        "level": 5
+    }
+]
