@@ -46,7 +46,7 @@ const deprecateCategory = async (identifier: string) => {
 (async () => {
     const puns = await loadFromFile("./patches/modify.json");
     for (const pun of puns) {
-        let response = await modifyCategory(pun.short);
+        let response = await modifyCategory(pun);
         console.info(JSON.stringify(response, null, 2));
     }
 })();
