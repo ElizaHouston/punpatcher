@@ -4,21 +4,24 @@
         "name": "Chat Bot",
         "message": "Using chat bots in the lobby is not permitted.",
         "level": 3,
-        "displayMaterial": "OBSERVER"
+        "displayMaterial": "OBSERVER",
+        "scale": "MUTE"
     },
     {
         "short": "Bad_Behavior",
         "name": "Encouraging Bad Behavior",
         "message": "Encouraging others to break the rules is not allowed.",
         "level": 6,
-        "displayMaterial": "WOODEN_SWORD"
+        "displayMaterial": "WOODEN_SWORD",
+        "scale": "MUTE"
     },
     {
         "short": "External",
         "name": "External Advertisement",
         "message": "Advertising external servers is not permitted in our lobby.",
         "level": 7,
-        "displayMaterial": "IRON_HELMET"
+        "displayMaterial": "IRON_HELMET",
+        "scale": "MUTE"
     },
     {
         "short": "auto_ad",
