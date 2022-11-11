@@ -66,5 +66,9 @@
     {
         "short": "External",
         "scale": "MUTE"
+    },
+    {
+        "short": "auto_ad",
+        "scale": "MUTE"
     }
 ]
