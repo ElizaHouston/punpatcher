@@ -54,5 +54,17 @@
     {
         "short": "Server_Ad",
         "level": 5
+    },
+    {
+        "short": "chat_bot",
+        "scale": "MUTE"
+    },
+    {
+        "short": "Bad_Behavior",
+        "scale": "MUTE"
+    },
+    {
+        "short": "External",
+        "scale": "MUTE"
     }
 ]
