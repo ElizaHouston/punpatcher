@@ -8,21 +8,6 @@
         "scale": "MUTE"
     },
     {
-        "short": "auto_ad",
-        "name": "Auto Ad",
-        "message": "Using tools to automatically advertise is not allowed.",
-        "level": 8,
-        "displayMaterial": "DIAMOND_HELMET"
-    },
-    {
-        "short": "Personal_Info",
-        "name": "Releasing Personal Info",
-        "message": "Distributing any personal information, even if fake, is not permitted.",
-        "level": 13,
-        "scale": "BAN",
-        "displayMaterial": "PLAYER_HEAD"
-    },
-    {
         "short": "perm",
         "name": "Other Perm",
         "message": "Your account has been banned, please contact Support for more info.",
