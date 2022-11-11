@@ -3,7 +3,7 @@
         "short": "Harassment",
         "name": "Harassment",
         "message": "Harassing other players and staff is not permitted.",
-        "level": 7,
+        "level": 8,
         "scale": "BAN",
         "displayMaterial": "RED_DYE"
     },
@@ -12,7 +12,7 @@
         "name": "Swearing",
         "message": "Swearing is against our rules, so is trying to bypass our chat filter.",
         "scale": null,
-        "level": 6
+        "level": 7
     },
     {
         "short": "nameban",
@@ -29,39 +29,39 @@
     },
     {
         "short": "backdoor",
-        "level": 10
+        "level": 11
     },
     {
         "short": "Encouraging_Harm",
-        "level": 10
+        "level": 11
     },
     {
         "short": "Links",
-        "level": 10
+        "level": 11
     },
     {
         "short": "abuse_supp",
-        "level": 9
+        "level": 10
     },
     {
         "short": "Discrimination",
-        "level": 9
+        "level": 10
     },
     {
         "short": "staff_imper",
-        "level": 8
+        "level": 9
     },
     {
         "short": "Inappropriate",
-        "level": 6
+        "level": 7
     },
     {
         "short": "Spam",
-        "level": 5
+        "level": 6
     },
     {
         "short": "Server_Ad",
-        "level": 5
+        "level": 6
     },
     {
         "short": "chat_bot",
