@@ -27,6 +27,23 @@
       "deprecated": false
     },
     {
+      "short": "auto_ad",
+      "name": "Auto Ad",
+      "message": "Using tools to automatically advertise is not allowed.",
+      "level": 8,
+      "displayMaterial": "DIAMOND_HELMET",
+      "deprecated": false
+    },
+    {
+      "short": "Personal_Info",
+      "name": "Releasing Personal Info",
+      "message": "Distributing any personal information, even if fake, is not permitted.",
+      "level": 13,
+      "scale": "BAN",
+      "displayMaterial": "PLAYER_HEAD",
+      "deprecated": false
+    },
+    {
       "short": "Discrimination",
       "name": "Discrimination",
       "message": "Using slurs and/or discriminating others is not allowed.",
