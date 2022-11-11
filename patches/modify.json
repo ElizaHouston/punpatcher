@@ -49,7 +49,8 @@
       "message": "Using slurs and/or discriminating others is not allowed.",
       "level": 10,
       "scale": "BAN",
-      "displayMaterial": "SPRUCE_SIGN"
+      "displayMaterial": "SPRUCE_SIGN",
+      "deprecated": false
     },
     {
       "short": "Disruption",
@@ -57,7 +58,8 @@
       "message": "Griefing player servers or causing disruptions in the community is not permitted.",
       "level": 12,
       "scale": "BAN",
-      "displayMaterial": "COMMAND_BLOCK"
+      "displayMaterial": "COMMAND_BLOCK",
+      "deprecated": false
     },
     {
         "short": "Harassment",
@@ -65,14 +67,16 @@
         "message": "Harassing other players and staff is not permitted.",
         "level": 8,
         "scale": "BAN",
-        "displayMaterial": "RED_DYE"
+      "displayMaterial": "RED_DYE",
+      "deprecated": false
     },
     {
         "short": "Swearing",
         "name": "Swearing",
         "message": "Swearing is against our rules, so is trying to bypass our chat filter.",
         "scale": null,
-        "level": 7
+      "level": 7,
+      "deprecated": false
     },
     {
         "short": "nameban",
