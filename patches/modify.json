@@ -5,7 +5,7 @@
         "message": "Harassing other players and staff is not permitted.",
         "level": 7,
         "scale": "BAN",
-        "displayMaterial": "OBSERVER"
+        "displayMaterial": "RED_DYE"
     },
     {
         "short": "Swearing",
@@ -18,6 +18,14 @@
         "short": "nameban",
         "name": "Inappropriate Name/Skin",
         "message": "Inappropriate usernames and skins are not permitted on our servers. Please change it and contact Support."
+    },
+    {
+      "short": "Personal_Info",
+      "level": 13
+    },
+    {
+      "short": "perm",
+      "level": 13
     },
     {
         "short": "backdoor",
